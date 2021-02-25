@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7f37e5fddfd8f943919f158bd134ffe, type: 3}
+  m_Name: PoolSoundsMainSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: 40e6bbb879ced54458df9cb3181a7efe, type: 3}
+    volume: 1
+    numberOfAudioSource: 12
+  - name: 
+    clip: {fileID: 8300000, guid: 11d41ca7c1709d94baa1d08f81b5b165, type: 3}
+    volume: 1
+    numberOfAudioSource: 12
+  - name: 
+    clip: {fileID: 8300000, guid: 5868cc8d5eb8f7e4682171a12e65e919, type: 3}
+    volume: 0.022
+    numberOfAudioSource: 0
+  - name: 
+    clip: {fileID: 8300000, guid: 4470889ab2861c84ea61905fb2aa9548, type: 3}
+    volume: 0.001
+    numberOfAudioSource: 1
+  - name: 
+    clip: {fileID: 8300000, guid: 1be8f9d91965071468588d03ee7535e3, type: 3}
+    volume: 0.002
+    numberOfAudioSource: 1
+  - name: 
+    clip: {fileID: 8300000, guid: 9ebaeff38721c694c97186dd19dbd2fd, type: 3}
+    volume: 0.05
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: d19fc304332b8484e9355228f54e21d2, type: 3}
+    volume: 0.001
+    numberOfAudioSource: 5
+  - name: 
+    clip: {fileID: 8300000, guid: 8dc1c6cdc019c8a4c8d5c37848aaf388, type: 3}
+    volume: 0.02
+    numberOfAudioSource: 6
+  - name: 
+    clip: {fileID: 8300000, guid: 99c0b58041adbe049b4a387d8b774d67, type: 3}
+    volume: 0.001
+    numberOfAudioSource: 6
+  - name: 
+    clip: {fileID: 8300000, guid: 5f938ce632d3dd8478f9b4e94ba68524, type: 3}
+    volume: 0.1
+    numberOfAudioSource: 8
+  - name: 
+    clip: {fileID: 8300000, guid: 3e87d3ae6693bb64cac0dd64e8b17ce5, type: 3}
+    volume: 1
+    numberOfAudioSource: 12
+  - name: 
+    clip: {fileID: 8300000, guid: efe4b9657ce77e5468d5f8e346e88e99, type: 3}
+    volume: 0.13
+    numberOfAudioSource: 10
+  - name: 
+    clip: {fileID: 8300000, guid: 631421293f31a7042868b0bc2bb97673, type: 3}
+    volume: 0.08
+    numberOfAudioSource: 11
+  - name: 
+    clip: {fileID: 8300000, guid: 630d379b29b84064fa8ef959128f6852, type: 3}
+    volume: 0.12
+    numberOfAudioSource: 10
+  - name: 
+    clip: {fileID: 8300000, guid: d5bdcfde673d12748bec8268ba47082f, type: 3}
+    volume: 0.05
+    numberOfAudioSource: 10
+  - name: 
+    clip: {fileID: 8300000, guid: a46e531cd01aca44dadcfc521ec29e1c, type: 3}
+    volume: 0.05
+    numberOfAudioSource: 10

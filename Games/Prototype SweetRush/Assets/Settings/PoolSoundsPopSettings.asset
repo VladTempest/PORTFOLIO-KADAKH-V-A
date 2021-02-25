@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe47b35e0227554ebd18fe442e12799, type: 3}
+  m_Name: PoolSoundsPopSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: 8664e6fa32f10e4489a247e505261087, type: 3}
+    volume: 0.69
+    numberOfAudioSource: 7
+  - name: 
+    clip: {fileID: 8300000, guid: ab804b23b9a494943a3ae718f054c2b8, type: 3}
+    volume: 0.68
+    numberOfAudioSource: 7
+  - name: 
+    clip: {fileID: 8300000, guid: 63a0812552ed0b941a03f0dad6ae7238, type: 3}
+    volume: 0.67
+    numberOfAudioSource: 7
+  - name: 
+    clip: {fileID: 8300000, guid: b4f0eb43a3fd3e2499180db2fd47fd31, type: 3}
+    volume: 0.65
+    numberOfAudioSource: 7
+  - name: 
+    clip: {fileID: 8300000, guid: d3901822e47e64d4ea61f889f93816a3, type: 3}
+    volume: 0.72
+    numberOfAudioSource: 7
+  - name: 
+    clip: {fileID: 8300000, guid: 1342798c93ef2224982879d3199ffff4, type: 3}
+    volume: 0.72
+    numberOfAudioSource: 7

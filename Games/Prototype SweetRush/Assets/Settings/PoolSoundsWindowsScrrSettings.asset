@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfed0d5296804bf59ea36814c721065d, type: 3}
+  m_Name: PoolSoundsWindowsScrrSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: 415ae0e784a9dfd48acc528d7c9b9666, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 11
+  - name: 
+    clip: {fileID: 8300000, guid: 202352707033629479280264f322e46b, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 11
+  - name: 
+    clip: {fileID: 8300000, guid: 6fc891508cc9d444385f0d76d5c851d2, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 11
+  - name: 
+    clip: {fileID: 8300000, guid: ad4264f656868ad4eae250a5f2104433, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 11

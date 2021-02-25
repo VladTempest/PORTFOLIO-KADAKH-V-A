@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be9a359ec1707a4db82009b5d9afb69, type: 3}
+  m_Name: PoolEatablesSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - {fileID: 998998864170350836, guid: 2217a378dd70b4c4fa4d7995a86a3623, type: 3}
+  - {fileID: 114505739143914280, guid: bc28efb565feb914d82be384e182734c, type: 3}
+  - {fileID: 998998864170350836, guid: d34943ff2c697644a9b142a0e776357f, type: 3}
+  - {fileID: 998998864170350836, guid: d71dada1836c72242b2db9ddf228d577, type: 3}
+  - {fileID: 998998864170350836, guid: 76f129c50e28b144999b6576a74fa43d, type: 3}
+  - {fileID: 998998864170350836, guid: 2217a378dd70b4c4fa4d7995a86a3623, type: 3}
+  - {fileID: 998998864170350836, guid: d34943ff2c697644a9b142a0e776357f, type: 3}
+  - {fileID: 998998864170350836, guid: d71dada1836c72242b2db9ddf228d577, type: 3}
+  - {fileID: 998998864170350836, guid: 76f129c50e28b144999b6576a74fa43d, type: 3}
+  - {fileID: 998998864170350836, guid: 2217a378dd70b4c4fa4d7995a86a3623, type: 3}
+  - {fileID: 998998864170350836, guid: d34943ff2c697644a9b142a0e776357f, type: 3}
+  - {fileID: 998998864170350836, guid: d71dada1836c72242b2db9ddf228d577, type: 3}
+  - {fileID: 998998864170350836, guid: 76f129c50e28b144999b6576a74fa43d, type: 3}
+  - {fileID: 998998864170350836, guid: d71dada1836c72242b2db9ddf228d577, type: 3}
+  - {fileID: 998998864170350836, guid: d34943ff2c697644a9b142a0e776357f, type: 3}

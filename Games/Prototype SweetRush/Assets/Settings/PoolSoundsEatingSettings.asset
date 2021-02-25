@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cda790b52c1ad84c9d05203670a1e35, type: 3}
+  m_Name: PoolSoundsEatingSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: fcc1cf482e4e2f74791e472202659268, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: aa2071ae5ac8fb84fb4d48f48b3deb11, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: cf21b4cfa2ee21340b575a29a866a9fa, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: 8c6b4c73819dbe145976b990556f94ff, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: 4ec1664b29416a141b870ed280243713, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: 45ccb80f267ca644ab69c68d09c5d50b, type: 3}
+    volume: 1
+    numberOfAudioSource: 3
+  - name: 
+    clip: {fileID: 8300000, guid: b3f5fbc1cbb81a144a105f66f76e28eb, type: 3}
+    volume: 1
+    numberOfAudioSource: 3

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da87f85a7b216d4188eb8938a1d8607, type: 3}
+  m_Name: PoolObstacleSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - {fileID: 3040977854364856509, guid: 0c7198f7120564a4f92ad3f537388e9b, type: 3}
+  - {fileID: 8390587233378405437, guid: e0aaefdfeec592847aff6acd118a332a, type: 3}
+  - {fileID: 580885056813319252, guid: bacd69e9e4648494f836cb804905c2c3, type: 3}
+  - {fileID: 7706826843524972918, guid: 4a37076e40852f14a8c1306e3527e9e2, type: 3}

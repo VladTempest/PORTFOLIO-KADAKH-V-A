@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb2ebc0ed0e3b64baba5c9ef0d7090e, type: 3}
+  m_Name: PoolSoundsAnimalScreamSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: 7a349bf639a9b0e4599769c8e931649e, type: 3}
+    volume: 0.052
+    numberOfAudioSource: 2
+  - name: 
+    clip: {fileID: 8300000, guid: 964001285024cfa418cb19cbb1815003, type: 3}
+    volume: 0.046
+    numberOfAudioSource: 2
+  - name: 
+    clip: {fileID: 8300000, guid: 9aa1f52d113d99e4e9ad0b06e87e5200, type: 3}
+    volume: 0.04
+    numberOfAudioSource: 2
+  - name: 
+    clip: {fileID: 8300000, guid: 4801f4383779ebd4aa64c570a82dd03b, type: 3}
+    volume: 0.04
+    numberOfAudioSource: 2

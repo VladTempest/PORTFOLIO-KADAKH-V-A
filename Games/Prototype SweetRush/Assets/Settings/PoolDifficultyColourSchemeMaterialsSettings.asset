@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ccf2b988fff04c4086083219398b926, type: 3}
+  m_Name: PoolDifficultyColourSchemeMaterialsSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - {fileID: 2100000, guid: 23b6bcc39db4d544e9a2c3308e7d59ad, type: 2}
+  - {fileID: 2100000, guid: 27a166a9a87685846bdb8f66187e4568, type: 2}
+  - {fileID: 2100000, guid: c648569dc333e5e45a23e471f23c48ac, type: 2}
+  - {fileID: 2100000, guid: 0d975678f159f8e47b6a330ad9e3f8cc, type: 2}
+  - {fileID: 2100000, guid: 8af09470192bd954f84d66bee9ccec21, type: 2}
+  - {fileID: 2100000, guid: 9b9dca5950e1cde41aa6d0b9bd195f94, type: 2}
+  - {fileID: 2100000, guid: 630939ebdcf169d4abd05bb8c1ce6fbc, type: 2}
+  - {fileID: 2100000, guid: 9ea18c6cf826dfa47b532651cedaa00a, type: 2}
+  - {fileID: 2100000, guid: e8aa73a61f4efef438154494c68de7a7, type: 2}

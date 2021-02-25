@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f128eed0a9b08974dbc0788bc3a8f771, type: 3}
+  m_Name: PoolSoundsObstacleKillSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - name: 
+    clip: {fileID: 8300000, guid: 1c057c3482940cb4ca5f364964b84079, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 4
+  - name: 
+    clip: {fileID: 8300000, guid: 845a4cc2cca6da249942447494ad0802, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 4
+  - name: 
+    clip: {fileID: 8300000, guid: 37c30f36746848643a4c46b0bd3ae2d2, type: 3}
+    volume: 0.01
+    numberOfAudioSource: 4
