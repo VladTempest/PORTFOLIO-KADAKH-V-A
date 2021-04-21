@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ce9e18f579a1e94fb48dbab22bb8aea, type: 3}
+  m_Name: PoolFiguresSettings
+  m_EditorClassIdentifier: 
+  pool:
+  - {fileID: 8501198373273517797, guid: b25c8cd5b1509994d97ceaf2cb2ba549, type: 3}
+  - {fileID: 8205146023310129681, guid: 93528e1b822351b48a4bab9375190e42, type: 3}
+  - {fileID: 3735723659141340019, guid: a42a7d13229ee324794d55990dc6d5bf, type: 3}
